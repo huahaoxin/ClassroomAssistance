@@ -22,7 +22,7 @@
 		},
 		"nodeModules": true
 	},
-	"appid": "wx5b75f2a2785b537e",
+	"appid": "wx48c3861b791c310f",
 	"projectname": "ClassroomAssistance",
 	"libVersion": "2.8.1",
 	"simulatorType": "wechat",
@@ -48,7 +48,7 @@
 			"list": []
 		},
 		"miniprogram": {
-			"current": 2,
+			"current": 0,
 			"list": [
 				{
 					"id": -1,
@@ -59,13 +59,6 @@
 				{
 					"id": 1,
 					"name": "classroom",
-					"pathName": "pages/classroom/classroom",
-					"query": "",
-					"scene": null
-				},
-				{
-					"id": -1,
-					"name": "教室页面",
 					"pathName": "pages/classroom/classroom",
 					"scene": null
 				}
