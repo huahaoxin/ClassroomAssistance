@@ -1,0 +1,6 @@
+<!--pages/success/success.wxml-->
+<view>
+  <image src="/images/xiaoxi-chenggong.png"></image>
+</view>
+<button>预约成功</button>
+

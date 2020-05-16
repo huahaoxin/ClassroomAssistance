@@ -1,4 +1,4 @@
-// pages/appointment/appointment.js
+// pages/success/success.js
 Page({
 
   /**
@@ -6,11 +6,6 @@ Page({
    */
   data: {
 
-  },
-  jump:function(){
-    wx.navigateTo({
-      url: '/pages/success/success',
-    })
   },
 
   /**

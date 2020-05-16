@@ -2,36 +2,35 @@
   "pages": [
     "pages/index/index",
     "pages/appointment/appointment",
-    "pages/classroom/classroom"
+    "pages/classroom/classroom",
+    "pages/person/person",
+    "pages/jilu/jilu",
+    "pages/modify/modify",
+    "pages/success/success"
+
   ],
   "window": {
     "backgroundColor": "#F6F6F6",
     "backgroundTextStyle": "light",
-    "navigationBarBackgroundColor": "#F6F6F6",
+    "navigationBarBackgroundColor": "#779fd3",
     "navigationBarTitleText": "课室助手+",
-    "navigationBarTextStyle": "black"
+    "navigationBarTextStyle": "white"
   },
   "tabBar": {
-    "color": "#CCCCCC",
-    "selectedColor": "#1296db",
+    "color": "#c5cbdb",
+    "selectedColor": "#779fd3",
     "list": [
       {
         "pagePath": "pages/classroom/classroom",
         "text": "课室",
-        "iconPath": "images/classroom.png",
-        "selectedIconPath": "images/classroom-a.png"
-      },
-      {
-        "pagePath": "pages/appointment/appointment",
-        "text": "预约",
-        "iconPath": "images/appointment.png",
-        "selectedIconPath": "images/appointment-a.png"
+        "iconPath": "images/shouye.png",
+        "selectedIconPath": "images/shouye2.png"
       },
       {
         "pagePath": "pages/index/index",
         "text": "我的",
-        "iconPath": "images/me.png",
-        "selectedIconPath": "images/me-a.png"
+        "iconPath": "images/wod2e.png",
+        "selectedIconPath": "images/wode.png"
       }
     ]
   },

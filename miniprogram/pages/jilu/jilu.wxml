@@ -1,0 +1,13 @@
+<!--pages/jilu/jilu.wxml-->
+<view class="content">
+ <view class="jiaoshi">教室: 文201</view>
+ <view class="data" >日期: 2020年5月15日</view>
+ <view class="ks">开始时间: 17：00</view>
+ <view class="js">结束时间: 20：30</view>
+</view>
+<view class="content">
+ <view class="jiaoshi">教室: 理508</view>
+ <view class="data" >日期: 2020年3月18日</view>
+ <view class="ks">开始时间: 17：00</view>
+ <view class="js">结束时间: 19：00</view>
+</view>

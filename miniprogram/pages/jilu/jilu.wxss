@@ -1,0 +1,10 @@
+/* pages/jilu/jilu.wxss */
+.content{
+  margin: 20rpx;
+  width:95%;
+  height: 300rpx;
+  background-color: #ffffff;
+}
+view{
+  margin: 20rpx
+}

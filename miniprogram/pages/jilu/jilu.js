@@ -1,16 +1,11 @@
-// pages/appointment/appointment.js
+// pages/jilu/jilu.js
 Page({
 
   /**
    * 页面的初始数据
    */
   data: {
-
-  },
-  jump:function(){
-    wx.navigateTo({
-      url: '/pages/success/success',
-    })
+   
   },
 
   /**

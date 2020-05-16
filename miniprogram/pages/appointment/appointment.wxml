@@ -1,2 +1,22 @@
 <!--pages/appointment/appointment.wxml-->
-<text>pages/appointment/appointment.wxml</text>
+<view class="info">
+  <view>
+    <view class="fl">教室</view>
+    <view class="rl">文201<view class="arrow"></view></view>
+  </view>
+  <!-- 日期 -->
+  <view>
+    <view class="fl">日期</view>
+    <view class="rl">2020/5/15<view class="arrow"></view></view>
+  </view>
+  <view>
+    <view class="fl">开始时间</view>
+    <view class="rl">17：00<view class="arrow"></view></view>
+  </view>
+  <view>
+    <view class="fl">结束时间</view>
+    <view class="rl">21：30<view class="arrow"></view></view>
+  </view>
+
+  <button bindtap="jump" type="primary">立即预约</button>
+</view>
